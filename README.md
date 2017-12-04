@@ -1,4 +1,5 @@
 # flyme6_device_tcl_p620m
+Android Marshmallow
 Device:TCL P620M/TCL ono
 MT6735
 2+16
